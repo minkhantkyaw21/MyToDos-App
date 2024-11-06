@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+
+}
+.todo-form{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 300px;
+    margin: 0px auto;
+    padding-top: 20px;
+    border-radius: 5px;
+}
+input{
+    height: 40px;
+    padding:10px;
+    color: #000;
+}
+button{
+    background-color: rgba(5, 57, 40, 0.774);
+    height: 40px;
+    margin: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+.list-group{
+        border: 1px solid #ccc;
+        width: 300px;
+        margin: 0px auto;
+        margin-top: 20px;
+        border-radius: 5px;
+        text-align: center;
+        padding:5px;
+}
